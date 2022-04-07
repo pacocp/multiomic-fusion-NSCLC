@@ -1,0 +1,9 @@
+.DS_Store
+src/.ipynb_checkpoints/
+result_files/**/*.png
+result_files/*.png
+result_files/**/*.eps
+result_files/*.eps
+result_files/four-sources-integration/plots
+result_files/two-sources-integration/plots
+result_files/three-sources-integration/plots
